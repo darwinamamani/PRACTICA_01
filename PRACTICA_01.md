@@ -1,6 +1,8 @@
 <center>
 #PRACTICA N° 1
+ 
 ##SISTEMAS EMPRESARIALES
+
 Carrera:    INGENIERIA DE SISTEMAS 
 
 Materia:    EMERGENTES II

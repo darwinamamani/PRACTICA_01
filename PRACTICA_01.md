@@ -63,7 +63,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 
 ### 6) CON UN GRAFICO EXPLIQUE COMO FUNCIONA EL PROTOCOLO HTTP
 
-[PRESIONE PARA VER LA IMAGEN](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F1701339%2F7%2Fimages%2F5%2FComo%2Bfunciona%2BProtocolo%2Bhttp%2BDame%2Bel%2BCliente%2Barchivo%2Bx%2BAqu%25C3%25AD%2Best%25C3%25A1.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F1701339%2F&docid=6zpboSdBkmMEuM&tbnid=i8AkTxpGx3tzsM%3A&vet=10ahUKEwjmitvkm_7jAhUHvFkKHUANB6sQMwhgKBAwEA..i&w=960&h=720&bih=969&biw=1920&q=COMO%20FUNCIONA%20EL%20PROTOCOLO%20DE%20HTTP&ved=0ahUKEwjmitvkm_7jAhUHvFkKHUANB6sQMwhgKBAwEA&iact=mrc&uact=8)
+[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/http.jpg)
 
 ### 7) EXPLIQUE LOS ELEMETOS IMPORTANTES DE REQUEST EN HTTP
 

@@ -13,6 +13,7 @@ Apellido y Nombre:  MAMANI ARUQUIPA DARWIN
 C.I:    9138437 L.P.
 
 Lugar y fecha: EL ALTO 12/08/2019
+
 </center>
  
 
@@ -44,7 +45,8 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
  -Servidor web ***es un programa informático que procesa una aplicación del lado del servidor realizando conexiones bidireccionales y/o unidireccionales y síncronas o asíncronas con el cliente generando o cediendo una respuesta en cualquier lenguaje.***
 
 -*Servidor de aplicación* ***en informática es una red de computadores que ejecuta ciertas aplicaciones. Usualmente se trata de un dispositivo de software que proporciona servicios de aplicación a las computadoras cliente. Un servidor de aplicación generalmente gestiona la mayor parte *(o la totalidad)* de las funciones de lógica de negocio   y acceso a los datos de la aplicación.***
-###6) CON UN GRAFICO EXPLIQUE COMO FUNCIONA EL PROTOCOLO HTTP
+
+### 6) CON UN GRAFICO EXPLIQUE COMO FUNCIONA EL PROTOCOLO HTTP
 
 [PRESIONE PARA VER LA IMAGEN](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F1701339%2F7%2Fimages%2F5%2FComo%2Bfunciona%2BProtocolo%2Bhttp%2BDame%2Bel%2BCliente%2Barchivo%2Bx%2BAqu%25C3%25AD%2Best%25C3%25A1.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F1701339%2F&docid=6zpboSdBkmMEuM&tbnid=i8AkTxpGx3tzsM%3A&vet=10ahUKEwjmitvkm_7jAhUHvFkKHUANB6sQMwhgKBAwEA..i&w=960&h=720&bih=969&biw=1920&q=COMO%20FUNCIONA%20EL%20PROTOCOLO%20DE%20HTTP&ved=0ahUKEwjmitvkm_7jAhUHvFkKHUANB6sQMwhgKBAwEA&iact=mrc&uact=8)
 

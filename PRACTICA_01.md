@@ -1,7 +1,8 @@
 <center>
-#PRACTICA N° 1
  
-##SISTEMAS EMPRESARIALES
+# PRACTICA N° 1
+ 
+## SISTEMAS EMPRESARIALES
 
 Carrera:    INGENIERIA DE SISTEMAS 
 
@@ -15,9 +16,9 @@ Lugar y fecha: EL ALTO 12/08/2019
 </center>
  
 
-###1) ¿EXPLIQUE QUE SON LOS SISTEMAS EMPRESARIALES?
+### 1) ¿EXPLIQUE QUE SON LOS SISTEMAS EMPRESARIALES?
 **Es generalmente cualquier tipo de sistema de computación que es de** *clase Enterprise* **esto significa normal mente que ofrece alta calidad de servicio.**
-###2) DESCRIBA CUALES SON CARACTERISTICAS MAS IMPORTANTES DE UNA APLICACIÓN EMPRESARIAL.
+### 2) DESCRIBA CUALES SON CARACTERISTICAS MAS IMPORTANTES DE UNA APLICACIÓN EMPRESARIAL.
 -Disponibilidad
 -Capacidad
 -Extensibilidad
@@ -29,7 +30,7 @@ Lugar y fecha: EL ALTO 12/08/2019
 -Escalabilidad
 -Seguridad
 -Validez
-###3) INVESTIGUE Y PROPONGA 5 INSTITUCIONES QUE REQUIERAN APLICACIONES DE MISION CRITICA. JUSTIFIQUE SU RESPUESTA.
+### 3) INVESTIGUE Y PROPONGA 5 INSTITUCIONES QUE REQUIERAN APLICACIONES DE MISION CRITICA. JUSTIFIQUE SU RESPUESTA.
 -*PLATAFORMA TECNILOGICA* ***Es importante considerar donde se va a ejecutar nuestra aplicación, sobre qué sistema operativo, con cuales base de datos necesita relacionarse y que leguaje es el que nos conviene.***
 
 -*FLEXIBILIDAD* ***Debemos tener en claro que, a nivel tecnológico usa palabras de Heráclito lo único constate es el cambio. Por ello, debemos considerar que la decisión que tomemos respecto a la decisión que tomemos en este momento respecto a la plataforma, beses de datos, sistemas operativos y demás.***
@@ -58,7 +59,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 
 -*ValidFrom* ***fecha desde la que es valido el certificado.***
 
--*ValidUntil* ***fecha de expiración del certificado.***
+-*ValidUntil* ***fecha de expiración del certificado.*** 
 
 ###8) EXPLIQUE LOS ELEMENTOS IMPORTANTES DE RESPONSE EN HTTP##
 ####-Response.Buffe =  false | true

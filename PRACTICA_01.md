@@ -119,7 +119,7 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 
 ### METODO DE LA CLASE HTTPSERVLET
 
-[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/post.jpg)
+[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/servelet.png)
 
 -*INIT(SERVLETCONFIG CONFIG):* ***Es el método utilizado para crear una nueva instancia del servlet (análogo al constructor).*** 
 
@@ -139,8 +139,9 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 -*DESTROY():* ***Este método es llamado por el servidor para indicar el servlet será destruido. Es llamado solo una vez y uno debe encargarse de esperar por posibles peticiones en curso.***
 
 ### METODO DE LA CLASE HTTPSERVLETREQUEST
+https://github.com/darwinamamani/PRACTICA_01/blob/master/servelet.png
 
-[PRESIONE PARA VER LA IMAGEN](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLU_6IVpL-f4%2Fmaxresdefault.jpg&imgrefurl=http%3A%2F%2Fwww.edu4java.com%2Fes%2Fservlet%2Fservlet3.html&docid=iXFVvE_wkF8CYM&tbnid=sxI-J6sz1kfxQM%3A&vet=10ahUKEwjbye2DoP7jAhVrp1kKHYG6BdUQMwhRKBIwEg..i&w=1280&h=720&bih=920&biw=1920&q=METODO%20DE%20LA%20CLASE%20HTTPSERVLETREQUEST&ved=0ahUKEwjbye2DoP7jAhVrp1kKHYG6BdUQMwhRKBIwEg&iact=mrc&uact=8)
+[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/post.jpg)
 
   -*METODO GETPARAMETER:* ***Devuelve le valor de un parámetro nombrado. Si nuestro parámetro pudiera tener mas un valor, deberíamos de utilizar*** *getParameterValues* ***en su lugar. El método*** *getParameterValues* ***devuelve un array de valores del parámetro nombrado.***
 

@@ -139,7 +139,6 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 -*DESTROY():* ***Este método es llamado por el servidor para indicar el servlet será destruido. Es llamado solo una vez y uno debe encargarse de esperar por posibles peticiones en curso.***
 
 ### METODO DE LA CLASE HTTPSERVLETREQUEST
-https://github.com/darwinamamani/PRACTICA_01/blob/master/servelet.png
 
 [PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/post.jpg)
 

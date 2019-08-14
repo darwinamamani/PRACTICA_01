@@ -63,7 +63,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 
 ### 6) CON UN GRAFICO EXPLIQUE COMO FUNCIONA EL PROTOCOLO HTTP
 
-[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/http.jpg)
+![PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/http.jpg)
 
 ### 7) EXPLIQUE LOS ELEMETOS IMPORTANTES DE REQUEST EN HTTP
 
@@ -119,7 +119,7 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 
 ### METODO DE LA CLASE HTTPSERVLET
 
-[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/servelet.png)
+![PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/servelet.png)
 
 -*INIT(SERVLETCONFIG CONFIG):* ***Es el método utilizado para crear una nueva instancia del servlet (análogo al constructor).*** 
 
@@ -140,7 +140,7 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 
 ### METODO DE LA CLASE HTTPSERVLETREQUEST
 
-[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/post.jpg)
+![PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/post.jpg)
 
   -*METODO GETPARAMETER:* ***Devuelve le valor de un parámetro nombrado. Si nuestro parámetro pudiera tener mas un valor, deberíamos de utilizar*** *getParameterValues* ***en su lugar. El método*** *getParameterValues* ***devuelve un array de valores del parámetro nombrado.***
 

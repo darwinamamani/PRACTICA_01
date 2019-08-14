@@ -119,7 +119,7 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 
 ### METODO DE LA CLASE HTTPSERVLET
 
-[PRESIONE PARA VER LA IMAGEN](PRACTICA_01/blob/master/servelet.png)
+[PRESIONE PARA VER LA IMAGEN](https://github.com/darwinamamani/PRACTICA_01/blob/master/post.jpg)
 
 -*INIT(SERVLETCONFIG CONFIG):* ***Es el método utilizado para crear una nueva instancia del servlet (análogo al constructor).*** 
 

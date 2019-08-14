@@ -21,27 +21,42 @@ Lugar y fecha: EL ALTO 12/08/2019
 ***Es generalmente cualquier tipo de sistema de computación que es de*** *clase Enterprise* ***esto significa normal mente que ofrece alta calidad de servicio.***
 ### 2) DESCRIBA CUALES SON CARACTERISTICAS MAS IMPORTANTES DE UNA APLICACIÓN EMPRESARIAL.
 -Disponibilidad
+
 -Capacidad
+
 -Extensibilidad
+
 -Flexibilidad
+
 -Manejabilidad
+
 -Rendimiento
+
 -Confiabilidad
+
 -Reusabilidad
+
 -Escalabilidad
+
 -Seguridad
+
 -Validez
+
 ### 3) INVESTIGUE Y PROPONGA 5 INSTITUCIONES QUE REQUIERAN APLICACIONES DE MISION CRITICA. JUSTIFIQUE SU RESPUESTA.
 -*PLATAFORMA TECNILOGICA* ***Es importante considerar donde se va a ejecutar nuestra aplicación, sobre qué sistema operativo, con cuales base de datos necesita relacionarse y que leguaje es el que nos conviene.***
 
 -*FLEXIBILIDAD* ***Debemos tener en claro que, a nivel tecnológico usa palabras de Heráclito lo único constate es el cambio. Por ello, debemos considerar que la decisión que tomemos respecto a la decisión que tomemos en este momento respecto a la plataforma, beses de datos, sistemas operativos y demás.***
+
 ### 4) EXPLIQUE CUALES SON LAS DIFERENCIAS ENTRE LA ESCABILIDAD HORIZONTAL Y ESCABILIDAD VERTICAL.
+
  -**ESCABILIDAD HORIZONTAL:** ***Es el mas potente, pero también el más complicado.*** *este modelo implica tener varios servidores (conocidos como nodos) trabajando como un todo* ***se crea una red de servidores conocida como*** *Clúster* ***con la finalidad de repartirse el trabajo entre todos nodos del clúster.***
 ***Para que el escalamiento horizontal funcione deberá existir un servidor primario desde el cual se administra el clúster. También deberá tener un software que permita ingresar al clúster.***
 
 -**ESCALABILIDAD VERTICAL:** ***Este es el mas simple, pues significa*** *crecer el hardware de uno de los nodos, es decir aumentar el hardware por uno más potente, como disco duro, memoria, procesador, etc. Pero también puede ser la migración completa del hardware por uno mas potente.* *el esfuerzo de este crecimiento es mínimo* ***pues no tiene recuperaciones en el software, ya que solo será respaldar y migrar los sistemas al nuevo hardware.  
-La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, ya que nuestros*** *crecimientos están ligado al hardware,* ***y este; tarde o temprano tendrá un límite, llegará el momento de que tengamos el mejor procesador, el mejor disco duro, la mejor memoria.*** 
-### 5) QUE ES UN SERVIDOR WEB Y QUE ES UN SERVIDOR DE APLICACIÓNES##
+La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, ya que nuestros*** *crecimientos están ligado al hardware,* ***y este; tarde o temprano tendrá un límite, llegará el momento de que tengamos el mejor procesador, el mejor disco duro, la mejor memoria.***
+
+### 5) QUE ES UN SERVIDOR WEB Y QUE ES UN SERVIDOR DE APLICACIÓNES
+
  -Servidor web ***es un programa informático que procesa una aplicación del lado del servidor realizando conexiones bidireccionales y/o unidireccionales y síncronas o asíncronas con el cliente generando o cediendo una respuesta en cualquier lenguaje.***
 
 -*Servidor de aplicación* ***en informática es una red de computadores que ejecuta ciertas aplicaciones. Usualmente se trata de un dispositivo de software que proporciona servicios de aplicación a las computadoras cliente. Un servidor de aplicación generalmente gestiona la mayor parte *(o la totalidad)* de las funciones de lógica de negocio   y acceso a los datos de la aplicación.***
@@ -51,6 +66,7 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 [PRESIONE PARA VER LA IMAGEN](https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F1701339%2F7%2Fimages%2F5%2FComo%2Bfunciona%2BProtocolo%2Bhttp%2BDame%2Bel%2BCliente%2Barchivo%2Bx%2BAqu%25C3%25AD%2Best%25C3%25A1.jpg&imgrefurl=https%3A%2F%2Fslideplayer.es%2Fslide%2F1701339%2F&docid=6zpboSdBkmMEuM&tbnid=i8AkTxpGx3tzsM%3A&vet=10ahUKEwjmitvkm_7jAhUHvFkKHUANB6sQMwhgKBAwEA..i&w=960&h=720&bih=969&biw=1920&q=COMO%20FUNCIONA%20EL%20PROTOCOLO%20DE%20HTTP&ved=0ahUKEwjmitvkm_7jAhUHvFkKHUANB6sQMwhgKBAwEA&iact=mrc&uact=8)
 
 ### 7) EXPLIQUE LOS ELEMETOS IMPORTANTES DE REQUEST EN HTTP
+
 -*Certifícate* ***contiene el certificado completo. Se recibe en binario.***
 
 -*SerialNumber* ***contiene el numero de serie del certificado.***
@@ -63,7 +79,8 @@ La realidad es que este tipo de escalamiento tiene algunos aspectos negativos, y
 
 -*ValidUntil* ***fecha de expiración del certificado.*** 
 
-### 8) EXPLIQUE LOS ELEMENTOS IMPORTANTES DE RESPONSE EN HTTP##
+### 8) EXPLIQUE LOS ELEMENTOS IMPORTANTES DE RESPONSE EN HTTP
+
 #### -Response.Buffe =  false | true
 
 ***La propiedad Response.Buffer sirve para sirve para intervenir en el proceso de buffering. Si el valor de buffer es*** *true*, ***el servidor enviara el contenido del buffer a la salida, pero si el buffer es*** *false*, ***el proceso de buffer no realizara. Esto significa que no es posible cambiar la propiedad después de que le servidor haya enviado a la respuesta.***
@@ -75,7 +92,9 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 -*Servidor proxy* ***es una maquina que se instala en algunas redes locales  (también llamadas intranest), función consiste en guardar en sus discos una copia de todas las paginas web que han visitado los navegadores de esa red local.***
 
 -*Servidor Cache* ***es un navegador instalado que tiene dos caches: en memoria y en disco. Y es configurable por el usuario el tamaño de ambas.***
+
 ### 9) DESCRIBA CON UN GRAFICO LA ARQUITECTURA JAVA EE
+
 -*Client-tier:* ***Corre sobre la maquina cliente.***
 
 -*Web-tier:* ***Corre  en el servidor EE.***
@@ -97,6 +116,7 @@ Esta propiedad permite a los servidores proxy guardar o no en su cache una copia
 
 
 ## 11) ENVESTIGUE LOS METODOS MAS UTILIZADOS DE LAS CLASES HTTPSERVLET, HTTPSERVLETREQUEST Y HTTPSERVLETRESPONSE, Y PARA CADA UNO DE LOS METODOS MUESTRE UN EJEMPLO.
+
 ### METODO DE LA CLASE HTTPSERVLET
 
 [PRESIONE PARA VER LA IMAGEN](https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2F-_VAAXXmSKuc%2FWWTMi1RpW8I%2FAAAAAAAADOI%2FX51xa353aGIwj3BHbTsib0EDVLDCCQvZgCHMYCw%2Ffuncionamiento-de-los-servlet-java_t%3Fimgmax%3D800&imgrefurl=http%3A%2F%2Facodigo.blogspot.com%2F2017%2F07%2Fservlet-java-tutorial-basico.html&docid=8_k6iIuAQB0D7M&tbnid=kjYVaxIkzwhbcM%3A&vet=10ahUKEwjNiNDTnv7jAhVEnlkKHQBkDqcQMwhnKBswGw..i&w=762&h=382&bih=920&biw=1920&q=METODO%20DE%20LA%20CLASE%20HTTPSERVLET&ved=0ahUKEwjNiNDTnv7jAhVEnlkKHQBkDqcQMwhnKBswGw&iact=mrc&uact=8)

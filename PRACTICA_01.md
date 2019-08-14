@@ -18,7 +18,7 @@ Lugar y fecha: EL ALTO 12/08/2019
  
 
 ### 1) ¿EXPLIQUE QUE SON LOS SISTEMAS EMPRESARIALES?
-**Es generalmente cualquier tipo de sistema de computación que es de** *clase Enterprise* **esto significa normal mente que ofrece alta calidad de servicio.**
+***Es generalmente cualquier tipo de sistema de computación que es de*** *clase Enterprise* ***esto significa normal mente que ofrece alta calidad de servicio.***
 ### 2) DESCRIBA CUALES SON CARACTERISTICAS MAS IMPORTANTES DE UNA APLICACIÓN EMPRESARIAL.
 -Disponibilidad
 -Capacidad
